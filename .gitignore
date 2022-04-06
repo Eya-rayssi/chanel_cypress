@@ -1,0 +1,9 @@
+node_modules/
+videos/
+allure-report/
+allure-results/
+target/
+node/
+cypress/screenshots
+.history/cypress/fixtures/
+.history/

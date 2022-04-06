@@ -1,0 +1,15 @@
+{
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "defaultCommandTimeout": 60000,
+    "baseUrl": "https://www.chanel.com",
+    "testFiles": ["**/*.{feature,features}"],
+    "chromeWebSecurity": false,
+    "env": {
+        "fixturesBaseDir": "test_data_files/",
+        "uploadeBaseDir":"/file_to_upload/",
+        "TAGS": "",
+        "allure":true,
+        "allureResultsPath":"allure-results"
+    } 
+}
